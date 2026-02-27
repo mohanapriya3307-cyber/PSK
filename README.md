@@ -106,7 +106,7 @@ for i in range(len(symbols)):
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : Mohana priya K\nREG NO : 212224060244",
+plt.suptitle("NAME : Mohana priya K\nREG NO : 212224060158",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
@@ -133,7 +133,8 @@ plt.show()
 
 <img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/d2522579-aab7-4cde-8254-3c705a96a4ab" />
 
-<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/42688a80-e260-4d0b-bbd7-9ebcb27026db" />
+<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/ef0d064d-c3c1-4b14-9b63-4673209c0332" />
+
 
 # Results
 
