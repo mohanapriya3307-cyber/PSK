@@ -1,9 +1,13 @@
-# PSK
+
+# NAME: MOHANA PRIYA K
+# REGISTER NO.: 212224060158
+# PSK AND QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
+Any python software
 # Program
-#PSK
+# PSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -61,7 +65,7 @@ plt.grid(True)
 plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
-#QPSK
+# QPSK
 ```
 import matplotlib.pyplot as plt
 
