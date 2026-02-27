@@ -130,13 +130,10 @@ plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
 # Output Waveform
-```
+
 <img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/d2522579-aab7-4cde-8254-3c705a96a4ab" />
 
-```
-```
 <img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/42688a80-e260-4d0b-bbd7-9ebcb27026db" />
-```
 
 # Results
 
